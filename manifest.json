@@ -1,0 +1,16 @@
+{
+  "name": "Catatan Harian",
+  "short_name": "Catatan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Aplikasi Catatan Harian",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    }
+  ],
+  "theme_color": "#000000"
+}
